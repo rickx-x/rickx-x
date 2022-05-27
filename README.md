@@ -1,6 +1,5 @@
 - 👋 Hi, I’m RITHESH SINGH
 - 👀 I’m interested in ... Learning new things by doing it.
-- 🌱 I’m currently learning ...DSA
 - 📫 How to reach me ...here is my linkedin profile:----https://www.linkedin.com/in/rickx/
 
 <!---
