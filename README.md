@@ -1,16 +1,7 @@
-<div align="center" fontsize = "150%">
-  
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&center=true&width=600&lines=hi+👋!;I+am++Rithesh+Singh+%F0%9F%92%AC+%F0%9F%91%80;Nice+to+meet+you+%f0%9f%91%8b)](https://git.io/typing-svg)
-  
-</div>
 <h1 align="center">Hi 👋, I'm Rithesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickx-x&label=Profile%20views&color=0e75b6&style=flat" alt="rickx-x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickx-x" alt="rickx-x" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ritesh34343709" target="blank"><img src="https://img.shields.io/twitter/follow/ritesh34343709?logo=twitter&style=for-the-badge" alt="ritesh34343709" /></a> </p>
 
 - 🔭 I’m currently working on [Tribe](https://github.com/rickx-x/Tribe)
 
