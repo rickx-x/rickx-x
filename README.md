@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rithesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickx-x&label=Profile%20views&color=0e75b6&style=flat" alt="rickx-x" /> </p>
 
 
 - 🔭 I’m currently working on [Tribe](https://github.com/rickx-x/Tribe)
