@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickx-x&label=Profile%20views&color=0e75b6&style=flat" alt="rickx-x" /> </p>
 
 
-- 🔭 I’m currently working on [Tribe](https://github.com/rickx-x/Tribe)
+- 🔭 I’m currently working on ML
 
 - 🌱 I’m currently learning **Web3 and AI**
 
