@@ -1,60 +1,88 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:07111F,55:123B5D,100:00B4D8&text=Rithesh%20Kumar%20Singh&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descAlignY=60&descSize=16" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=Building+reliable+software+systems;Exploring+backend%2C+data+and+AI;Learning+how+things+work+under+the+hood" alt="Typing SVG" /><p>
-  <a href="https://www.linkedin.com/in/ritheshsingh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ritheshsingh01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rickx-x?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/rickx_x"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-</p></div>About
-I'm a software engineer interested in building and understanding the systems behind modern applications — from data pipelines and backend services to cloud infrastructure and AI-powered products.
-- Currently working with: Python, PySpark, SQL, AWS Glue, Amazon S3 and PostgreSQL.
-- Learning more about: Backend architecture, distributed systems, databases and Kubernetes.
-- Exploring: LLM applications, RAG, AI agents and production-ready AI engineering.
-- Engineering mindset: Understand the problem, study the trade-offs, then build the solution.
-Tech stack
-<div align="center"><img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,postgres,mongodb,aws,docker,git,linux&theme=dark" /></div>Area	Tools and technologies
-Languages	Python, SQL, Java, JavaScript
-Data engineering	PySpark, Apache Spark, AWS Glue
-Cloud	AWS, Amazon S3, Secrets Manager
-Databases	PostgreSQL, MongoDB
-Workflow & monitoring	Control-M, SNS, Splunk
-Web development	React, Node.js, Express
-Tools	Git, GitHub, Postman, Linux
-
-
-What I'm exploring
-Topic	Areas of interest
-Backend engineering	API design, concurrency, caching, authentication, service architecture
-Distributed systems	Replication, consistency, fault tolerance, messaging
-Data systems	Spark execution, partitioning, shuffles, pipeline reliability
-AI engineering	LLMs, RAG, tool calling, agents, evaluation and observability
-Infrastructure	Docker, Kubernetes, CI/CD, networking and deployment
-Application security	OWASP, threat modeling and secure API design
-
-
-Selected projects
-Tribe — Social platform
-A MERN-stack social application built to explore full-stack development, application structure and user-facing product flows.
-
-TextMe — Chat application
-A MERN-stack chat application built while exploring frontend/backend integration and real-time product experiences.
-
-Restaurant Recommendation System
-A Python recommendation project using NLP concepts and cosine similarity to recommend restaurants.
-
-Engineering lab — Ongoing exploration
-Learning and experimenting with production-style backend and AI application patterns, including FastAPI, LLM integrations, retrieval workflows, Docker and cloud deployment.
-GitHub stats
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=rickx-x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickx-x&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" /><img width="70%" src="https://streak-stats.demolab.com?user=rickx-x&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" /></div>Highlights
-- Solved 300+ problems on LeetCode.
-- Received a TCS On-the-Spot Award.
-- Received a TCS Appreciation Certificate.
-- Recognized as a TCS AI Hackathon Milestone Achiever.
-- Led a team in the Smart India Hackathon.
-A few engineering principles
-- Fundamentals over framework-hopping.
-- Understand the bottleneck before optimizing.
-- Reliability is a feature.
-- Every abstraction has a cost.
-- Build to learn; reflect to improve.
-<div align="center">Curiosity is the fuel. Engineering is the craft.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,55:123B5D,100:07111F&height=90&section=footer" width="100%" /></div>
+<h1 align="center">Hi, I'm Rithesh 👋</h1><p align="center">
+  Software Engineer · Backend · Data · AI
+</p><p align="center">
+  <a href="https://www.linkedin.com/in/ritheshsingh">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ritheshsingh01@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/rickx_x">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-rickx__x-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+</p><details open>
+  <summary align="center"><h2>⚙️ What I'm Working With</h2></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,postgres,mongodb,aws,docker,git,linux&theme=dark" alt="Technology stack" />
+  </p>
+  <p align="center">
+    <strong>Data Engineering:</strong> PySpark · Apache Spark · AWS Glue · Amazon S3 · SQL
+    <br />
+    <strong>Backend & Databases:</strong> Python · FastAPI (learning) · PostgreSQL · REST APIs
+    <br />
+    <strong>Cloud & Operations:</strong> AWS · Control-M · SNS · Splunk · Secrets Manager
+  </p>
+  <p align="center">
+    Currently exploring distributed systems, Kubernetes, system design, LLM applications, RAG and AI agents.
+  </p>
+</details><details open>
+  <summary align="center"><h2>🚀 Project Spotlight</h2></summary>
+  <p align="center">
+    <strong>Restaurant Recommendation System</strong>
+  </p>
+  <p align="center">
+    A Python-based recommendation project using NLP concepts and cosine similarity to recommend restaurants.
+  </p>
+  <p align="center">
+    <strong>Other projects:</strong> Tribe — MERN social platform · TextMe — MERN chat application
+  </p>
+  <p align="center">
+    <i>Currently expanding my hands-on work in backend engineering and production-style AI applications.</i>
+  </p>
+</details><details open>
+  <summary align="center"><h2>📊 Stats and Activity</h2></summary>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/rickx-x">
+          <img
+            title="Rithesh's GitHub Streak"
+            alt="GitHub streak"
+            src="https://github-readme-streak-stats-eight.vercel.app/?user=rickx-x&theme=react&hide_border=true"
+          />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rickx-x">
+          <img
+            title="Rithesh's GitHub Stats"
+            alt="GitHub stats"
+            src="https://github-readme-stats.vercel.app/api?username=rickx-x&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+            height="192"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/rickx-x">
+          <img
+            title="Rithesh's GitHub Activity"
+            alt="GitHub activity graph"
+            src="https://github-readme-activity-graph-delta.vercel.app/graph/?username=rickx-x&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+            width="95%"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details><details>
+  <summary align="center"><h2>🏅 Highlights</h2></summary>
+  <p align="center">
+    300+ LeetCode problems solved · TCS On-the-Spot Award · TCS Appreciation Certificate
+    <br />
+    TCS AI Hackathon Milestone Achiever · Smart India Hackathon Team Lead
+  </p>
+</details><p align="center">
+  <i>Curious about how systems work. Motivated to build better ones.</i>
+</p>
